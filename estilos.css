@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+p {
+    color: blue;
+}
