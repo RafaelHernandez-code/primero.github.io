@@ -21,3 +21,12 @@ div {
 }
 .caja1 {
     border: 7px solid #000;
+}
+footer{
+    background: #000;
+}
+footer {
+    text-align: center;
+    padding: 15px 0px;
+    color: #fff;
+}
